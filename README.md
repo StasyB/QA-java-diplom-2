@@ -1,1 +1,3 @@
-# Diplom_2
+# QA-java-diplom-2
+
+## Project: Stellar Burgers
